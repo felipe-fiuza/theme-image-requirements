@@ -1,0 +1,875 @@
+[
+  {
+    "theme": "feed-aero-minimalism-34e6d992",
+    "name": "Aero Minimalism",
+    "slot_count": 8,
+    "section_count": 5,
+    "measured": true,
+    "visible_slot_count": 8,
+    "hidden_slot_count": 0
+  },
+  {
+    "theme": "feed-analog-obsession-d2fc1b43",
+    "name": "Runout",
+    "slot_count": 3,
+    "section_count": 3,
+    "measured": true,
+    "visible_slot_count": 3,
+    "hidden_slot_count": 0
+  },
+  {
+    "theme": "feed-apres-refresh-58387694",
+    "name": "Apr\u00e8s Refresh",
+    "slot_count": 2,
+    "section_count": 2,
+    "measured": true,
+    "visible_slot_count": 2,
+    "hidden_slot_count": 0
+  },
+  {
+    "theme": "feed-atelier-alegre-b54494bc",
+    "name": "Atelier Alegre",
+    "slot_count": 3,
+    "section_count": 1,
+    "measured": true,
+    "visible_slot_count": 3,
+    "hidden_slot_count": 0
+  },
+  {
+    "theme": "feed-bake-central-pop-studio-c09d7458",
+    "name": "Bake Central Pop Studio",
+    "slot_count": 8,
+    "section_count": 4,
+    "measured": true,
+    "visible_slot_count": 8,
+    "hidden_slot_count": 0
+  },
+  {
+    "theme": "feed-bold-on-every-table-4b87b962",
+    "name": "Bold on Every Table",
+    "slot_count": 3,
+    "section_count": 1,
+    "measured": true,
+    "visible_slot_count": 3,
+    "hidden_slot_count": 0
+  },
+  {
+    "theme": "feed-brew-play-f9e55d21",
+    "name": "Brew & Play",
+    "slot_count": 0,
+    "section_count": 0,
+    "measured": true,
+    "visible_slot_count": 0,
+    "hidden_slot_count": 0
+  },
+  {
+    "theme": "feed-canvas-bloom-studio-58769c9d",
+    "name": "Canvas Bloom Studio",
+    "slot_count": 2,
+    "section_count": 2,
+    "measured": true,
+    "visible_slot_count": 2,
+    "hidden_slot_count": 0
+  },
+  {
+    "theme": "feed-cheerful-pop-ba54b077",
+    "name": "Cheerful Pop",
+    "slot_count": 4,
+    "section_count": 2,
+    "measured": true,
+    "visible_slot_count": 4,
+    "hidden_slot_count": 0
+  },
+  {
+    "theme": "feed-city-sanctuary-a3408300",
+    "name": "City Sanctuary",
+    "slot_count": 3,
+    "section_count": 2,
+    "measured": true,
+    "visible_slot_count": 3,
+    "hidden_slot_count": 0
+  },
+  {
+    "theme": "feed-common-iron-c99e3f8d",
+    "name": "Common Iron",
+    "slot_count": 9,
+    "section_count": 4,
+    "measured": true,
+    "visible_slot_count": 9,
+    "hidden_slot_count": 0
+  },
+  {
+    "theme": "feed-concrete-pulse-ca531534",
+    "name": "Concrete Pulse",
+    "slot_count": 4,
+    "section_count": 2,
+    "measured": true,
+    "visible_slot_count": 4,
+    "hidden_slot_count": 0
+  },
+  {
+    "theme": "feed-contemporary-heirlooms-464aae1b",
+    "name": "Contemporary Heirlooms",
+    "slot_count": 4,
+    "section_count": 2,
+    "measured": true,
+    "visible_slot_count": 4,
+    "hidden_slot_count": 0
+  },
+  {
+    "theme": "feed-court-culture-cbcc330d",
+    "name": "Court Culture",
+    "slot_count": 4,
+    "section_count": 1,
+    "measured": true,
+    "visible_slot_count": 4,
+    "hidden_slot_count": 0
+  },
+  {
+    "theme": "feed-creative-playground-2a7e4846",
+    "name": "Creative Playground",
+    "slot_count": 4,
+    "section_count": 2,
+    "measured": true,
+    "visible_slot_count": 4,
+    "hidden_slot_count": 0
+  },
+  {
+    "theme": "feed-desk-objects-in-motion-5a7b5319",
+    "name": "Desk Objects in Motion",
+    "slot_count": 4,
+    "section_count": 2,
+    "measured": true,
+    "visible_slot_count": 4,
+    "hidden_slot_count": 0
+  },
+  {
+    "theme": "feed-desk-to-drinks-3492b0dc",
+    "name": "Desk to Drinks",
+    "slot_count": 3,
+    "section_count": 1,
+    "measured": true,
+    "visible_slot_count": 3,
+    "hidden_slot_count": 0
+  },
+  {
+    "theme": "feed-desk-to-drinks-605d453a",
+    "name": "Desk to Drinks",
+    "slot_count": 2,
+    "section_count": 2,
+    "measured": true,
+    "visible_slot_count": 2,
+    "hidden_slot_count": 0
+  },
+  {
+    "theme": "feed-driftline-aac4d214",
+    "name": "Driftline",
+    "slot_count": 1,
+    "section_count": 1,
+    "measured": true,
+    "visible_slot_count": 1,
+    "hidden_slot_count": 0
+  },
+  {
+    "theme": "feed-effortless-rituals-3899a311",
+    "name": "Effortless Rituals",
+    "slot_count": 1,
+    "section_count": 1,
+    "measured": true,
+    "visible_slot_count": 1,
+    "hidden_slot_count": 0
+  },
+  {
+    "theme": "feed-electric-ember-0489b72f",
+    "name": "Electric Ember",
+    "slot_count": 7,
+    "section_count": 2,
+    "measured": true,
+    "visible_slot_count": 7,
+    "hidden_slot_count": 0
+  },
+  {
+    "theme": "feed-eresu-6b7e93b2",
+    "name": "ERESU",
+    "slot_count": 2,
+    "section_count": 2,
+    "measured": true,
+    "visible_slot_count": 2,
+    "hidden_slot_count": 0
+  },
+  {
+    "theme": "feed-everyday-elevated-3acc8cc4",
+    "name": "Everyday Elevated",
+    "slot_count": 3,
+    "section_count": 2,
+    "measured": true,
+    "visible_slot_count": 3,
+    "hidden_slot_count": 0
+  },
+  {
+    "theme": "feed-everyday-luxe-editorial-351eedcd",
+    "name": "Everyday Luxe Editorial",
+    "slot_count": 0,
+    "section_count": 0,
+    "measured": true,
+    "visible_slot_count": 0,
+    "hidden_slot_count": 0
+  },
+  {
+    "theme": "feed-feel-good-fuel-e35eff31",
+    "name": "Feel-Good Fuel",
+    "slot_count": 1,
+    "section_count": 1,
+    "measured": true,
+    "visible_slot_count": 1,
+    "hidden_slot_count": 0
+  },
+  {
+    "theme": "feed-festive-table-stories-9d092267",
+    "name": "Festive Table Stories",
+    "slot_count": 2,
+    "section_count": 2,
+    "measured": true,
+    "visible_slot_count": 2,
+    "hidden_slot_count": 0
+  },
+  {
+    "theme": "feed-frame-club-b76f7d53",
+    "name": "Frame Club",
+    "slot_count": 2,
+    "section_count": 1,
+    "measured": true,
+    "visible_slot_count": 2,
+    "hidden_slot_count": 0
+  },
+  {
+    "theme": "feed-gathered-at-the-table-0f227565",
+    "name": "Gathered at the Table",
+    "slot_count": 1,
+    "section_count": 1,
+    "measured": true,
+    "visible_slot_count": 1,
+    "hidden_slot_count": 0
+  },
+  {
+    "theme": "feed-glim-1955fe62",
+    "name": "Glim",
+    "slot_count": 0,
+    "section_count": 0,
+    "measured": true,
+    "visible_slot_count": 0,
+    "hidden_slot_count": 0
+  },
+  {
+    "theme": "feed-gold-accent-vitality-b6c45efa",
+    "name": "Gold Accent Vitality",
+    "slot_count": 12,
+    "section_count": 3,
+    "measured": true,
+    "visible_slot_count": 9,
+    "hidden_slot_count": 3
+  },
+  {
+    "theme": "feed-golden-hour-heritage-cf0e8500",
+    "name": "Golden Hour Heritage",
+    "slot_count": 0,
+    "section_count": 0,
+    "measured": true,
+    "visible_slot_count": 0,
+    "hidden_slot_count": 0
+  },
+  {
+    "theme": "feed-golden-interval-616ba7c1",
+    "name": "Golden Interval",
+    "slot_count": 5,
+    "section_count": 1,
+    "measured": true,
+    "visible_slot_count": 5,
+    "hidden_slot_count": 0
+  },
+  {
+    "theme": "feed-golden-tide-collective-cbe226a1",
+    "name": "Saltglass Swim",
+    "slot_count": 1,
+    "section_count": 1,
+    "measured": true,
+    "visible_slot_count": 1,
+    "hidden_slot_count": 0
+  },
+  {
+    "theme": "feed-haunted-hearth-74841fa7",
+    "name": "Haunted Hearth",
+    "slot_count": 2,
+    "section_count": 2,
+    "measured": true,
+    "visible_slot_count": 2,
+    "hidden_slot_count": 0
+  },
+  {
+    "theme": "feed-haven-hearth-02c64983",
+    "name": "Haven & Hearth",
+    "slot_count": 4,
+    "section_count": 2,
+    "measured": true,
+    "visible_slot_count": 4,
+    "hidden_slot_count": 0
+  },
+  {
+    "theme": "feed-haze-co-ddebc1c9",
+    "name": "Haze & Co.",
+    "slot_count": 2,
+    "section_count": 2,
+    "measured": true,
+    "visible_slot_count": 2,
+    "hidden_slot_count": 0
+  },
+  {
+    "theme": "feed-joyful-spectrum-13c173a0",
+    "name": "Joyful Spectrum",
+    "slot_count": 0,
+    "section_count": 0,
+    "measured": true,
+    "visible_slot_count": 0,
+    "hidden_slot_count": 0
+  },
+  {
+    "theme": "feed-kumo-9411624c",
+    "name": "Kumo",
+    "slot_count": 3,
+    "section_count": 2,
+    "measured": true,
+    "visible_slot_count": 3,
+    "hidden_slot_count": 0
+  },
+  {
+    "theme": "feed-lace-c6c3cf61",
+    "name": "Lac\u00e9",
+    "slot_count": 2,
+    "section_count": 2,
+    "measured": true,
+    "visible_slot_count": 2,
+    "hidden_slot_count": 0
+  },
+  {
+    "theme": "feed-light-as-art-d46a8a34",
+    "name": "Light as Art",
+    "slot_count": 5,
+    "section_count": 3,
+    "measured": true,
+    "visible_slot_count": 5,
+    "hidden_slot_count": 0
+  },
+  {
+    "theme": "feed-lived-in-glow-adf847a3",
+    "name": "Lived-In Glow",
+    "slot_count": 1,
+    "section_count": 1,
+    "measured": true,
+    "visible_slot_count": 1,
+    "hidden_slot_count": 0
+  },
+  {
+    "theme": "feed-lumen-club-f6014c3f",
+    "name": "Lumen Club",
+    "slot_count": 4,
+    "section_count": 1,
+    "measured": true,
+    "visible_slot_count": 4,
+    "hidden_slot_count": 0
+  },
+  {
+    "theme": "feed-lumina-botanica-fee51738",
+    "name": "Lumina Botanica",
+    "slot_count": 4,
+    "section_count": 2,
+    "measured": true,
+    "visible_slot_count": 4,
+    "hidden_slot_count": 0
+  },
+  {
+    "theme": "feed-lumina-grain-94e00c53",
+    "name": "Lumina Grain",
+    "slot_count": 2,
+    "section_count": 2,
+    "measured": true,
+    "visible_slot_count": 2,
+    "hidden_slot_count": 0
+  },
+  {
+    "theme": "feed-luminous-minimalism-07f12a93",
+    "name": "Luminous Minimalism",
+    "slot_count": 1,
+    "section_count": 1,
+    "measured": true,
+    "visible_slot_count": 1,
+    "hidden_slot_count": 0
+  },
+  {
+    "theme": "feed-maree-fb912b0d",
+    "name": "Mar\u00e9e",
+    "slot_count": 3,
+    "section_count": 3,
+    "measured": true,
+    "visible_slot_count": 3,
+    "hidden_slot_count": 0
+  },
+  {
+    "theme": "feed-modern-earth-6969d979",
+    "name": "Modern Earth",
+    "slot_count": 1,
+    "section_count": 1,
+    "measured": true,
+    "visible_slot_count": 1,
+    "hidden_slot_count": 0
+  },
+  {
+    "theme": "feed-modern-expedition-27be91a3",
+    "name": "Modern Expedition",
+    "slot_count": 3,
+    "section_count": 3,
+    "measured": true,
+    "visible_slot_count": 3,
+    "hidden_slot_count": 0
+  },
+  {
+    "theme": "feed-modern-muse-22d857ed",
+    "name": "Modern Muse",
+    "slot_count": 6,
+    "section_count": 3,
+    "measured": true,
+    "visible_slot_count": 6,
+    "hidden_slot_count": 0
+  },
+  {
+    "theme": "feed-modern-nest-5d62c811",
+    "name": "Modern Nest",
+    "slot_count": 3,
+    "section_count": 1,
+    "measured": true,
+    "visible_slot_count": 3,
+    "hidden_slot_count": 0
+  },
+  {
+    "theme": "feed-modern-sanctuary-cdd9004a",
+    "name": "Modern Sanctuary",
+    "slot_count": 0,
+    "section_count": 0,
+    "measured": true,
+    "visible_slot_count": 0,
+    "hidden_slot_count": 0
+  },
+  {
+    "theme": "feed-monochrome-statement-664fa55c",
+    "name": "Monochrome Statement",
+    "slot_count": 2,
+    "section_count": 1,
+    "measured": true,
+    "visible_slot_count": 2,
+    "hidden_slot_count": 0
+  },
+  {
+    "theme": "feed-murmure-6f516ba3",
+    "name": "murmure",
+    "slot_count": 5,
+    "section_count": 3,
+    "measured": true,
+    "visible_slot_count": 5,
+    "hidden_slot_count": 0
+  },
+  {
+    "theme": "feed-neo-japan-everyday-1beada46",
+    "name": "Neo-Japan Everyday",
+    "slot_count": 5,
+    "section_count": 2,
+    "measured": true,
+    "visible_slot_count": 5,
+    "hidden_slot_count": 0
+  },
+  {
+    "theme": "feed-odile-grey-5db868a6",
+    "name": "Odile Grey",
+    "slot_count": 3,
+    "section_count": 2,
+    "measured": true,
+    "visible_slot_count": 3,
+    "hidden_slot_count": 0
+  },
+  {
+    "theme": "feed-orvenoria-64caa630",
+    "name": "ORVENORIA",
+    "slot_count": 2,
+    "section_count": 2,
+    "measured": true,
+    "visible_slot_count": 2,
+    "hidden_slot_count": 0
+  },
+  {
+    "theme": "feed-orvenoria-af7d9e27",
+    "name": "ORVENORIA",
+    "slot_count": 6,
+    "section_count": 4,
+    "measured": true,
+    "visible_slot_count": 6,
+    "hidden_slot_count": 0
+  },
+  {
+    "theme": "feed-parallax-32540ff0",
+    "name": "Parallax",
+    "slot_count": 7,
+    "section_count": 3,
+    "measured": true,
+    "visible_slot_count": 7,
+    "hidden_slot_count": 0
+  },
+  {
+    "theme": "feed-pipkin-9a94d0f0",
+    "name": "pipkin",
+    "slot_count": 3,
+    "section_count": 2,
+    "measured": true,
+    "visible_slot_count": 3,
+    "hidden_slot_count": 0
+  },
+  {
+    "theme": "feed-plain-stock-401de08f",
+    "name": "Plain Stock",
+    "slot_count": 7,
+    "section_count": 3,
+    "measured": true,
+    "visible_slot_count": 7,
+    "hidden_slot_count": 0
+  },
+  {
+    "theme": "feed-playful-function-atelier-121b8a99",
+    "name": "Playful Function Atelier",
+    "slot_count": 1,
+    "section_count": 1,
+    "measured": true,
+    "visible_slot_count": 1,
+    "hidden_slot_count": 0
+  },
+  {
+    "theme": "feed-playful-green-utility-ca58e492",
+    "name": "Playful Green Utility",
+    "slot_count": 0,
+    "section_count": 0,
+    "measured": true,
+    "visible_slot_count": 0,
+    "hidden_slot_count": 0
+  },
+  {
+    "theme": "feed-precision-in-detail-b51839a8",
+    "name": "Precision in Detail",
+    "slot_count": 0,
+    "section_count": 0,
+    "measured": true,
+    "visible_slot_count": 0,
+    "hidden_slot_count": 0
+  },
+  {
+    "theme": "feed-quiet-precision-cfbde3ce",
+    "name": "Quiet Precision",
+    "slot_count": 1,
+    "section_count": 1,
+    "measured": true,
+    "visible_slot_count": 1,
+    "hidden_slot_count": 0
+  },
+  {
+    "theme": "feed-radiantcurve-collective-2f845859",
+    "name": "RadiantCurve Collective",
+    "slot_count": 1,
+    "section_count": 1,
+    "measured": true,
+    "visible_slot_count": 1,
+    "hidden_slot_count": 0
+  },
+  {
+    "theme": "feed-rally-club-0f8d8efd",
+    "name": "Rally Club",
+    "slot_count": 1,
+    "section_count": 1,
+    "measured": true,
+    "visible_slot_count": 1,
+    "hidden_slot_count": 0
+  },
+  {
+    "theme": "feed-reckless-table-e9821c4f",
+    "name": "Reckless Table",
+    "slot_count": 3,
+    "section_count": 2,
+    "measured": true,
+    "visible_slot_count": 3,
+    "hidden_slot_count": 0
+  },
+  {
+    "theme": "feed-ricrac-4ecc6a74",
+    "name": "Ricrac",
+    "slot_count": 1,
+    "section_count": 1,
+    "measured": true,
+    "visible_slot_count": 1,
+    "hidden_slot_count": 0
+  },
+  {
+    "theme": "feed-rillen-berlin-e3fea2a2",
+    "name": "rillen.berlin",
+    "slot_count": 0,
+    "section_count": 0,
+    "measured": true,
+    "visible_slot_count": 0,
+    "hidden_slot_count": 0
+  },
+  {
+    "theme": "feed-ruelle-38248a43",
+    "name": "Ruelle",
+    "slot_count": 0,
+    "section_count": 0,
+    "measured": true,
+    "visible_slot_count": 0,
+    "hidden_slot_count": 0
+  },
+  {
+    "theme": "feed-sable-sanctuary-cbcb73c3",
+    "name": "Sable Sanctuary",
+    "slot_count": 0,
+    "section_count": 0,
+    "measured": true,
+    "visible_slot_count": 0,
+    "hidden_slot_count": 0
+  },
+  {
+    "theme": "feed-saikhu-f3c811df",
+    "name": "Saikhu",
+    "slot_count": 1,
+    "section_count": 1,
+    "measured": true,
+    "visible_slot_count": 1,
+    "hidden_slot_count": 0
+  },
+  {
+    "theme": "feed-second-pour-fed58ee8",
+    "name": "Second Pour",
+    "slot_count": 2,
+    "section_count": 2,
+    "measured": true,
+    "visible_slot_count": 2,
+    "hidden_slot_count": 0
+  },
+  {
+    "theme": "feed-serene-sculpted-minimalism-a78d0625",
+    "name": "Serene Sculpted Minimalism",
+    "slot_count": 1,
+    "section_count": 1,
+    "measured": true,
+    "visible_slot_count": 1,
+    "hidden_slot_count": 0
+  },
+  {
+    "theme": "feed-serene-sculpted-minimalism-dd6e696a",
+    "name": "Serene Sculpted Minimalism",
+    "slot_count": 4,
+    "section_count": 2,
+    "measured": true,
+    "visible_slot_count": 4,
+    "hidden_slot_count": 0
+  },
+  {
+    "theme": "feed-signed-amplified-dfc34130",
+    "name": "Signed & Amplified",
+    "slot_count": 5,
+    "section_count": 2,
+    "measured": true,
+    "visible_slot_count": 5,
+    "hidden_slot_count": 0
+  },
+  {
+    "theme": "feed-situ-9827b0dc",
+    "name": "Situ",
+    "slot_count": 0,
+    "section_count": 0,
+    "measured": true,
+    "visible_slot_count": 0,
+    "hidden_slot_count": 0
+  },
+  {
+    "theme": "feed-sole-swim-a30204f5",
+    "name": "Sol\u00e9 Swim",
+    "slot_count": 1,
+    "section_count": 1,
+    "measured": true,
+    "visible_slot_count": 1,
+    "hidden_slot_count": 0
+  },
+  {
+    "theme": "feed-sonic-haven-823fbd22",
+    "name": "Sonic Haven",
+    "slot_count": 0,
+    "section_count": 0,
+    "measured": true,
+    "visible_slot_count": 0,
+    "hidden_slot_count": 0
+  },
+  {
+    "theme": "feed-sonic-haven-bdf1cbb5",
+    "name": "Sonic Haven",
+    "slot_count": 0,
+    "section_count": 0,
+    "measured": true,
+    "visible_slot_count": 0,
+    "hidden_slot_count": 0
+  },
+  {
+    "theme": "feed-sotto-7453b325",
+    "name": "Sotto",
+    "slot_count": 1,
+    "section_count": 1,
+    "measured": true,
+    "visible_slot_count": 1,
+    "hidden_slot_count": 0
+  },
+  {
+    "theme": "feed-sourdine-485bbec8",
+    "name": "Sourdine",
+    "slot_count": 3,
+    "section_count": 2,
+    "measured": true,
+    "visible_slot_count": 3,
+    "hidden_slot_count": 0
+  },
+  {
+    "theme": "feed-studio-stillness-36ce88e0",
+    "name": "Studio Stillness",
+    "slot_count": 2,
+    "section_count": 2,
+    "measured": true,
+    "visible_slot_count": 2,
+    "hidden_slot_count": 0
+  },
+  {
+    "theme": "feed-sunlit-craft-013f7a6e",
+    "name": "Sunlit Craft",
+    "slot_count": 2,
+    "section_count": 2,
+    "measured": true,
+    "visible_slot_count": 2,
+    "hidden_slot_count": 0
+  },
+  {
+    "theme": "feed-the-archivist-s-atelier-3c245f74",
+    "name": "The Archivist\u2019s Atelier",
+    "slot_count": 7,
+    "section_count": 3,
+    "measured": true,
+    "visible_slot_count": 7,
+    "hidden_slot_count": 0
+  },
+  {
+    "theme": "feed-the-rehearsal-room-ac54d970",
+    "name": "The Rehearsal Room",
+    "slot_count": 3,
+    "section_count": 1,
+    "measured": true,
+    "visible_slot_count": 3,
+    "hidden_slot_count": 0
+  },
+  {
+    "theme": "feed-the-scented-atelier-a895c870",
+    "name": "The Scented Atelier",
+    "slot_count": 6,
+    "section_count": 2,
+    "measured": true,
+    "visible_slot_count": 6,
+    "hidden_slot_count": 0
+  },
+  {
+    "theme": "feed-trail-stories-in-motion-90190a52",
+    "name": "Trail Stories: In Motion",
+    "slot_count": 5,
+    "section_count": 4,
+    "measured": true,
+    "visible_slot_count": 5,
+    "hidden_slot_count": 0
+  },
+  {
+    "theme": "feed-urban-phantom-709c8612",
+    "name": "Urban Phantom",
+    "slot_count": 4,
+    "section_count": 2,
+    "measured": true,
+    "visible_slot_count": 4,
+    "hidden_slot_count": 0
+  },
+  {
+    "theme": "feed-vintage-birdy-e5914231",
+    "name": "Vintage Birdy",
+    "slot_count": 3,
+    "section_count": 3,
+    "measured": true,
+    "visible_slot_count": 3,
+    "hidden_slot_count": 0
+  },
+  {
+    "theme": "feed-waveform-3d17fa10",
+    "name": "Waveform",
+    "slot_count": 0,
+    "section_count": 0,
+    "measured": true,
+    "visible_slot_count": 0,
+    "hidden_slot_count": 0
+  },
+  {
+    "theme": "feed-waymark-supply-co-20f6199d",
+    "name": "Waymark Supply Co.",
+    "slot_count": 3,
+    "section_count": 3,
+    "measured": true,
+    "visible_slot_count": 3,
+    "hidden_slot_count": 0
+  },
+  {
+    "theme": "feed-wingtip-coffee-co-5fd54365",
+    "name": "Wingtip Coffee Co.",
+    "slot_count": 1,
+    "section_count": 1,
+    "measured": true,
+    "visible_slot_count": 1,
+    "hidden_slot_count": 0
+  },
+  {
+    "theme": "feed-wonderworks-studio-ad24704d",
+    "name": "Wonderworks Studio",
+    "slot_count": 5,
+    "section_count": 3,
+    "measured": true,
+    "visible_slot_count": 5,
+    "hidden_slot_count": 0
+  },
+  {
+    "theme": "feed-work-life-curated-d6bf2fc9",
+    "name": "Work/Life Curated",
+    "slot_count": 2,
+    "section_count": 2,
+    "measured": true,
+    "visible_slot_count": 2,
+    "hidden_slot_count": 0
+  },
+  {
+    "theme": "feed-woven-journeys-9bb09915",
+    "name": "Woven Journeys",
+    "slot_count": 8,
+    "section_count": 3,
+    "measured": true,
+    "visible_slot_count": 8,
+    "hidden_slot_count": 0
+  },
+  {
+    "theme": "feed-zenith-motion-bb81c54d",
+    "name": "Zenith Motion",
+    "slot_count": 7,
+    "section_count": 3,
+    "measured": true,
+    "visible_slot_count": 7,
+    "hidden_slot_count": 0
+  }
+]
