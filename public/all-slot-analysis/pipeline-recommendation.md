@@ -1,5 +1,18 @@
 # Image pipeline recommendation and utilization
 
+## Choose the image format for the slot
+
+Use the slot’s width divided by its height to select the closest source format. These four rules minimize the image area hidden by `object-fit: cover`.
+
+| Slot ratio (width ÷ height) | Recommended image format |
+|---|---|
+| Below 0.89 | **4:5** |
+| 0.89 to below 1.15 | **1:1** |
+| 1.15 to 1.54 | **4:3** |
+| Above 1.54 | **16:9** |
+
+These boundaries are rounded for readability; the placement lab calculates the closest format using exact ratios. Center images by default and adjust the focal position when needed. The original image file stays unchanged. **21:9 is an optional theme-specific top-up for especially wide slots**, rather than part of the four-format starting pool.
+
 ## Two recommended pipeline options
 
 | Format | Balanced approach | Global approach |
