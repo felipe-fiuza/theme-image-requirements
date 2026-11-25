@@ -2,6 +2,8 @@
 
 ## Choose the image format for the slot
 
+**These assignment rules apply to editorial and hero images. Product images have a separate recommendation.**
+
 Use the slot’s width divided by its height to select the closest source format. These four rules minimize the image area hidden by `object-fit: cover`.
 
 | Slot ratio (width ÷ height) | Recommended image format |
